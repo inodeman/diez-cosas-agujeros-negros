@@ -1,0 +1,11 @@
+__pycache__/
+frames/
+audio/
+*.log
+*.wav
+*.mp4
+*.mov
+*.png
+cards/
+filter_*.txt
+timeline.json
